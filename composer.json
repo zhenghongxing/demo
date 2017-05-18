@@ -1,0 +1,14 @@
+{
+    "name": "zhenghongxing/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hongxin zheng",
+            "email": "1696514435@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
